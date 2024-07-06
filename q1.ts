@@ -46,3 +46,7 @@ console.log(buyItem(hero2, shop2));
 // Output: { items: ["sword", "potion"], gold: 50 }
 
 module.exports = buyItem;
+
+/*รหัสนศ. 660610791
+
+ชื่อ-นามสกุล : รัฟฟาน วันอิดริส*/
